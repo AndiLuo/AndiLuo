@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/read_me_profile_pic.PNG" width=550 />
+  <img src="images/read_me_profile_pic.PNG" width=450 />
 </p>
 
 <h1 align="center">
