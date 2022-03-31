@@ -1,4 +1,8 @@
-### Hi I'm Andy Luo!
+![](images/read_me_profile_pic.PNG)
+
+<h1 align="center">
+  Hi I'm Andy Luo!
+<h1>
 
 <!--
 **AndiLuo/AndiLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
