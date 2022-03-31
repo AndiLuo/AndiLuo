@@ -1,8 +1,10 @@
-![](images/read_me_profile_pic.PNG)
+<p align="center">
+  <img src="images/read_me_profile_pic.PNG" width=550 />
+</p>
 
 <h1 align="center">
   Hi I'm Andy Luo!
-<h1>
+</h1>
 
 <!--
 **AndiLuo/AndiLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
