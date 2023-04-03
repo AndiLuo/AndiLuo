@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=andiluo&include_orgs=true&show_icons=true&theme=nightowl&locale=en)
+[![GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=andiluo&include_orgs=true)](https://github.com/invokemedia/github-readme-stats)
 
 ### About Me 😀
 I'm a full-stack developer with 2 years experience in this industry so I'm always looking for oppurtunities to learn and expand my development capabilities!
