@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andiluo&theme=dark&show_icons=true)
+https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=andiluo&langs_count=10&layout=compact
 
 ### About Me 😀
 I'm a full-stack developer with 2 years experience in this industry so I'm always looking for oppurtunities to learn and expand my development capabilities!
