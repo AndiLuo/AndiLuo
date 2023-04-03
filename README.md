@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ### About Me 😀
-I'm a full-stack developer with 1 year experience in this industry so I'm always looking for oppurtunities to learn and expand my development capabilities! Currently, I am working as a junior-full stack developer utlizing the MERN stack + GraphQL.
+I'm a full-stack developer with 2 years experience in this industry so I'm always looking for oppurtunities to learn and expand my development capabilities!
 
 ## Things I like to do
 - Playing guitar and jamming out 🎸!
