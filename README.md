@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- </div> -->
 
 ### About Me 😀
-I'm a full-stack developer with 2 years experience in this industry so I'm always looking for oppurtunities to learn and expand my development capabilities!
+I'm a full-stack developer with 2 years experience in this industry. I'm always looking for oppurtunities to learn and expand my development capabilities!
 
 ## Things I like to do
 - Playing guitar and jamming out 🎸!
